@@ -1,11 +1,11 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 2.8.3...3.0.2)
 project(razor_imu_9dof)
 
 find_package(catkin REQUIRED COMPONENTS dynamic_reconfigure)
 
 generate_dynamic_reconfigure_options(cfg/imu.cfg)
 
-catkin_package(DEPENDS CATKIN DEPENDS dynamic_reconfigure)
+catkin_package(CATKIN_DEPENDS dynamic_reconfigure)
 
 install(DIRECTORY launch
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
