@@ -7,7 +7,7 @@ The `razor_imu_9dof` package was released.
 Version of package(s) in repository `razor_imu_9dof`:
 
 - upstream repository: https://github.com/ENSTABretagneRobotics/razor_imu_9dof.git
-- release repository: https://github.com/KristofRobot/razor_imu_9dof-release.git
+- release repository: https://github.com/ENSTABretagneRobotics/razor_imu_9dof-release.git
 - rosdistro version: `1.2.0-0`
 - old version: `1.2.0-0`
 - new version: `1.3.0-1`
