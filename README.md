@@ -1,3 +1,26 @@
+## razor_imu_9dof (melodic) - 1.3.0-2
+
+The packages in the `razor_imu_9dof` repository were released into the `melodic` distro by running `/usr/bin/bloom-release razor_imu_9dof --rosdistro melodic` on `Tue, 13 Apr 2021 21:09:56 -0000`
+
+The `razor_imu_9dof` package was released.
+
+Version of package(s) in repository `razor_imu_9dof`:
+
+- upstream repository: https://github.com/ENSTABretagneRobotics/razor_imu_9dof.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.3.0-1`
+- new version: `1.3.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## razor_imu_9dof (kinetic) - 1.3.0-2
 
 The packages in the `razor_imu_9dof` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release razor_imu_9dof --rosdistro kinetic` on `Tue, 13 Apr 2021 21:03:24 -0000`
