@@ -1,0 +1,13 @@
+Source: ros-noetic-razor-imu-9dof
+Section: misc
+Priority: optional
+Maintainer: Fabrice LE BARS <fabrice.le_bars@ensta-bretagne.org>
+Build-Depends: debhelper (>= 9.0.0), python3-catkin-pkg, ros-noetic-catkin, ros-noetic-dynamic-reconfigure
+Homepage: http://ros.org/wiki/razor_imu_9dof
+Standards-Version: 3.9.2
+
+Package: ros-noetic-razor-imu-9dof
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-serial, ros-noetic-dynamic-reconfigure, ros-noetic-rospy, ros-noetic-sensor-msgs, ros-noetic-tf
+Description: razor_imu_9dof is a package that provides a ROS driver for the Sparkfun OpenLog Artemis, 9DoF Razor IMU M0, 9DOF Razor IMU and 9DOF Sensor Stick.
+ It also provides Arduino firmware that runs on the board, and which must be installed on it for the system to work. A node which displays the attitude (roll, pitch and yaw) of the board (or any IMU) is provided for testing.
