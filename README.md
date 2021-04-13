@@ -1,3 +1,26 @@
+## razor_imu_9dof (kinetic) - 1.3.0-2
+
+The packages in the `razor_imu_9dof` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release razor_imu_9dof --rosdistro kinetic` on `Tue, 13 Apr 2021 21:03:24 -0000`
+
+The `razor_imu_9dof` package was released.
+
+Version of package(s) in repository `razor_imu_9dof`:
+
+- upstream repository: https://github.com/ENSTABretagneRobotics/razor_imu_9dof.git
+- release repository: https://github.com/KristofRobot/razor_imu_9dof-release.git
+- rosdistro version: `1.2.0-0`
+- old version: `1.3.0-1`
+- new version: `1.3.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## razor_imu_9dof (noetic) - 1.3.0-1
 
 The packages in the `razor_imu_9dof` repository were released into the `noetic` distro by running `/usr/bin/bloom-release razor_imu_9dof --rosdistro noetic` on `Sat, 10 Apr 2021 17:51:29 -0000`
